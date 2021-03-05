@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 62: invalid syntax
+    image fake_exception = Text("An exception has occurred.", size=40, style="_default")
+         ^
+    
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Mar 04 17:15:17 2021
